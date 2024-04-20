@@ -1,0 +1,64 @@
+﻿Department,CourseCode  ,CourseTitle,CreditHours,Time/Bldg/Room,Final Exam Date/Time,Instructor,Remarks
+Biology        ,BIOL2101/10, General Biology ,4,"SUN 10:00-11:50 CMT/D09 , TUE 10:00-11:50 CMT/D09, THU 10:00-11:50 CMT/D09",TUE 08:00-11:00 15/08/2024,Noura Al Zuheimi,
+,BIOL2101/11, General Biology ,4,"MON 10:00-12:50 SCI/1029N, WED 10:00-12:50 SCI/1029N",,"Ibrahim Al Mahroqi, Noura Al Zuheimi, Hilal Al Shukeili, Ammar Al Ghadani",
+,,,,,,,
+ Chemistry      ,CHEM2101/10,General Chemistry,4,"SUN 12:00-13:50 CMT/D11, TUE 12:00-13:50 CMT/D11, THU 12:00-13:50 CMT/D11",THU 08:00-11:00 15/08/2024,Usama ALSHANA,
+,CHEM2101/11,General Chemistry,4,"MON 14:15-17:05 SCI/2019, WED 14:15-17:05 SCI/2019",,Ahoud Al Naamani,
+,CHEM2101/20,General Chemistry 1,4,"SUN 12:00-13:50 CMT/D12, TUE 12:00-13:50 CMT/D12, THU 12:00-13:50 CMT/D12",THU 08:00-11:00 15/08/2024,Isehaq Al-Nafai,
+,CHEM2101/21,General Chemistry 1,4,"MON 14:15-17:05 SCI/2019, WED 14:15-17:05 SCI/2019",,Mariam Al Jahwari,
+,CHEM2102/10,General Chemistry 2,4,"SUN 14:15-16:05 CMT/D11, TUE 14:15-16:05 CMT/D11, THU 14:15-16:05 CMT/D11",THU 11:30-14:30 15/08/2024,Imran Khan,
+,CHEM2102/11,General Chemistry 2,4,"MON 14:15-17:05 SCI/2037, WED 14:15-17:05 SCI/2037",,Khalid Al Moqbali,
+,CHEM2102/20,General Chemistry 2,4,"SUN 12:00-13:50 CMT/D10, THU 12:00-13:50 CMT/D10",THU 11:30-14:30 15/08/2024,Raid Abduljalil,
+,,,,,,,
+,CHEM2102/21,General Chemistry 2,4,"MON 14:15-17:05 SCI/2037, WED 14:15-17:05 SCI/2037",,Ibtisam Al Ajmi,
+,CHEM2350/10,Chemical Safety,3,"SUN 12:00-13:50 CMT/D13, TUE 12:00-13:50 CMT/D13, THU 12:00-13:50 CMT/D13",THU 15:00-18:00,Bushra Al Wahaibi,
+,,,,,,,
+Computer Science ,COMP2002/10,Intro. to Comp. Prog.,3,"SUN 10:00-11:50 SCI/0019B, TUE 10:00-11:50 SCI/0019B",SUN 11:30-14:30,Mohammed Sajeed,
+,COMP2002/11,Intro. to Comp. Prog.,3,"MON 10:00-11:50 SCI/0019B, WED 10:00-11:50 SCI/0019B",,Mohammed Sajeed,
+,COMP2002/20,Intro. to Comp. Prog.,3,"SUN 16:15-18:05 CMT/D09, TUE 16:15-18:05 CMT/D09",SUN 11:30-14:30,,
+,COMP2002/21,Intro. to Comp. Prog.,3,"MON 12:00-13:50 CMT/D09, WED 12:00-13:50 CMT/D09",,,
+,COMP2010/10,Adv. Comp. Skills,2,"SUN 08:00-09:50 CMT/F01, MON 08:00-09:50 CMT/F01, TUE 08:00-09:50 CMT/F01, WED 08:00-09:50 CMT/F01",,Fatma Al Shuhoumi,
+,COMP2101/10,Intro. to Comp. Sci.,4,"SUN 10:00-11:50 SCI/0022S, TUE 10:00-11:50 SCI/0022S, THU 10:00-11:50 SCI/0022S",TUE 08:00-11:00,,
+,COMP2101/11,Intro. to Comp. Sci.,4,"MON 10:00-11:50 SCI/0022S, WED 10:00-11:50 SCI/0022S",,,
+,COMP4445/10,Summer Training,0,THU 14:15-15:05 PRO/PRO,,Zuhoor Al-Khanjari,
+,,,,,,,
+ Earth Science  ,ERSC2101/10,Intro. to Geology 1,4,"SUN 14:15-16:05 SCI/0040, TUE 14:15-16:05 SCI/0040, THU 14:15-16:05 SCI/0040",THU 08:00-11:00,Osman Abdalla,
+,ERSC2101/11,Intro. to Geology 1,4,"MON 12:00-13:50 SCI/0040, MON 14:15-16:05 SCI/0040",,Osman Abdalla,
+,ERSC2101/12,Intro. to Geology 1,4,"WED 12:00-13:50 SCI/0040, WED 14:15-16:05 SCI/0040",,Osman Abdalla,
+,,,,,,,
+ Mathematics    ,MATH2107/10,Calculus 1,4,"SUN 08:00-09:50 CMT/D07, TUE 08:00-09:50 CMT/D07, THU 08:00-09:50 CMT/D07",SUN 08:00-11:00,"Tahani Al Sariri, Mohammed Hanifa",
+,MATH2107/11,Calculus 1,4,"MON 08:00-09:50 CMT/D07, WED 08:00-09:50 CMT/D07",,"Tahani Al Sariri, Mohammed Hanifa",
+,MATH2108/10,Calculus 2,3,"SUN 08:00-09:50 CMT/D04, TUE 08:00-09:50 CMT/D04",MON 11:30-14:30,Omar Tout,Departmental Requirement
+,MATH2108/11,Calculus 2,3,"MON 08:00-09:50 CMT/D04, WED 08:00-09:50 CMT/D04",,Omar Tout,Departmental Requirement
+,MATH2108/20,Calculus 2,3,"SUN 10:00-11:50 CMT/D05, TUE 10:00-11:50 CMT/D05",MON 11:30-14:30,Easwaran Balakrishnan,Departmental Requirement
+,MATH2108/21,Calculus 2,3,"MON 10:00-11:50 CMT/D05, WED 10:00-11:50 CMT/D05",,Easwaran Balakrishnan,Departmental Requirement
+,MATH2108/30,Calculus 2,3,"SUN 12:00-13:50 CMT/D06, TUE 12:00-13:50 CMT/D06",MON 11:30-14:30,"Hamed Al Shamsi, Amina Al Sawaei",Departmental Requirement
+,MATH2108/31,Calculus 2,3,"MON 12:00-13:50 CMT/D06, WED 12:00-13:50 CMT/D06",MON 11:30-14:30,"Hamed Al Shamsi, Amina Al Sawaei",Departmental Requirement
+,MATH2108/40,Calculus 2,3,"SUN 12:00-13:50 CMT/D07, TUE 12:00-13:50 CMT/D07",MON 11:30-14:30,Anton Purnama,Departmental Requirement
+,MATH2108/41,Calculus 2,3,"MON 12:00-13:50 CMT/D07, WED 12:00-13:50 CMT/D07",,Anton Purnama,Departmental Requirement
+,MATH2109/10,Calc.II for Sci.&Eng,3,"SUN 08:00-09:50 CMT/D06, TUE 08:00-09:50 CMT/D06",MON 11:30-14:30,"Nadiya Al-Dhamri, Ibrahim Elmojtaba",College Requirement
+,MATH2109/11,Calc.II for Sci.&Eng,3,"MON 08:00-09:50 CMT/D06, WED 08:00-09:50 CMT/D06",,"Nadiya Al-Dhamri, Ibrahim Elmojtaba",College Requirement
+,MATH2202/10,Lin. Alg. 1,3,"SUN 10:00-11:50 CMT/D06, TUE 10:00-11:50 CMT/D06",TUE 08:00-11:00,Abdulaziz Maouche,Departmental Requirement
+,MATH2202/11,Lin. Alg. 1,3,"MON 10:00-11:50 CMT/D06, WED 10:00-11:50 CMT/D06",,Abdulaziz Maouche,Departmental Requirement
+,MATH2350/10,Foundations of Math,3,"SUN 12:00-13:50 CMT/D05, TUE 12:00-13:50 CMT/D05",THU 08:00-11:00,Yassir Dinar,
+,MATH2350/11,Foundations of Math,3,"MON 12:00-13:50 CMT/D05, WED 12:00-13:50 CMT/D05",,Yassir Dinar,
+,MATH3110/10,Calculus 3,4,"SUN 08:00-09:50 CMT/D05, TUE 08:00-09:50 CMT/D05, THU 08:00-09:50 CMT/D05",SUN 08:00-11:00,Abdul Wahab,
+,MATH3110/11,Calculus 3,4,"MON 08:00-09:50 CMT/D05, WED 08:00-09:50 CMT/D05",,Abdul Wahab,
+,MATH4473/10,Linear Programming,3,"SUN 10:00-11:50 CMT/D04, TUE 10:00-11:50 CMT/D04",WED 15:00-18:00,Ibrahim Al Ayyoub,
+,MATH4473/11,Linear Programming,3,"MON 10:00-11:50 CMT/D04, WED 10:00-11:50 CMT/D04",,Ibrahim Al Ayyoub,
+,MATH4473/20,Linear Programming,3,"SUN 12:00-13:50 CMT/D08, TUE 12:00-13:50 CMT/D08",WED 15:00-18:00,Nikhil,
+,MATH4473/21,Linear Programming,3,"MON 12:00-13:50 CMT/D08, WED 12:00-13:50 CMT/D08",,Nikhil,
+,,,,,,,
+Physics        ,PHYS2101/10,Physics 1,4,"SUN 08:00-09:50 CMT/F05, TUE 08:00-09:50 CMT/F05, THU 08:00-09:50 CMT/F05",SUN 08:00-11:00 11/08/2024,Asadig Ridha Horchani Horchani,
+,PHYS2101/11,Physics 1,4,"MON 08:00-10:50 CMT/F05, WED 08:00-10:50 CMT/F05",,Asadig Ridha Horchani Horchani,
+,PHYS2102/10,Physics 2,4,"SUN 12:00-13:50 CMT/F51, TUE 12:00-13:50 CMT/F51, THU 12:00-13:50 CMT/F51",THU 08:00-11:00 15/08/2024,Ismail Al Yahmedi,
+,PHYS2102/11,Physics 2,4,"MON 14:15-17:05 SCI/0046S, WED 14:15-17:05 SCI/0046S",,Ismail Al Yahmedi,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+statistics,STAT2101/10,Intro. to Statistics,4,"SUN 08:00-09:50 CMT/D08, TUE 08:00-09:50 CMT/D08,THU 08:00-09:50 CMT/D08",WED 08:00-11:00 14/08/2024,M Islam,
+,STAT2101/11,Intro. to Statistics,4,"MON 08:00-09:50 CMT/D08, WED 08:00-09:50 CMT/D08",,M Islam,
+,STAT2101/20,Intro. to Statistics,4,"SUN 10:00-11:50 CMT/D07,TUE 10:00-11:50 CMT/D07,THU 10:00-11:50 CMT/D07,",WED 08:00-11:00 14/08/2024,Faisal Ababneh,
+,STAT2101/21,Intro. to Statistics,4,"	MON 10:00-11:50 CMT/D07,	WED 10:00-11:50 CMT/D07	",,Faisal Ababneh,
+,STAT2102/10,Intro to Probability,3,"SUN 08:00-09:50 CMT/D09,TUE 08:00-09:50CMT/D09",SUN 11:30-14:30 11/08/2024,Manoj Kumar,Major Requirement
+,STAT2102/11,Intro to Probability,3,"MON 08:00-09:50 CMT/D09,WED 08:00-09:50 CMT/D09",,Manoj Kumar,Major Requirement
